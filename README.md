@@ -10,4 +10,4 @@
 ### Homework 03
 - [Mastering **Markdown** in short tutorial](https://guides.github.com/features/mastering-markdown/)
 - [Piazaa](https://piazza.com/class/kk41p1oyz2i3sl?cid=7)
-
+- [Missing semester - học cách sử dụng các tool, công cụ liên quan đến cli](https://missing.csail.mit.edu)
