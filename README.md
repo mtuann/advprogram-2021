@@ -13,3 +13,6 @@
 - [Missing semester - học cách sử dụng các tool, công cụ liên quan đến cli](https://missing.csail.mit.edu)
 - [Biên dịch bằng cách **tách file header**, ghi chú về ifndef, define, endif; dùng **make**](http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf)
 - [Biên dịch bằng make chi tiết](https://www.bogotobogo.com/cplusplus/gnumake.php)
+
+### Homework 04
+- [Initialization and References](https://web.stanford.edu/class/cs106l/lectures/WLecture_3_Init_and_Ref.pdf)
