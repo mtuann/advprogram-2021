@@ -16,3 +16,7 @@
 
 ### Homework 04
 - [Initialization and References](https://web.stanford.edu/class/cs106l/lectures/WLecture_3_Init_and_Ref.pdf)
+- [Containers](http://web.stanford.edu/class/cs106l/lectures/WL5_Containers.pdf)
+	- Sequence containers: std::vector and std::deque
+	- Container adaptors: std::stack and std::queue  
+	- Associative containers: std::map and std::set
