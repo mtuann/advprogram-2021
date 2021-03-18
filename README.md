@@ -20,3 +20,9 @@
 	- Sequence containers: std::vector and std::deque
 	- Container adaptors: std::stack and std::queue  
 	- Associative containers: std::map and std::set
+
+### Homework 05
+- [Containers](http://web.stanford.edu/class/cs106l/lectures/WL5_Containers.pdf)
+	- Container adaptors: std::stack and std::queue  
+	- Associative containers: std::map and std::set
+- [Iterators](http://web.stanford.edu/class/cs106l/lectures/WL6_Iterators.pdf)
