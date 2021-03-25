@@ -26,3 +26,8 @@
 	- Container adaptors: std::stack and std::queue  
 	- Associative containers: std::map and std::set
 - [Iterators](http://web.stanford.edu/class/cs106l/lectures/WL6_Iterators.pdf)
+
+### Homework 06
+- [Template function](http://web.stanford.edu/class/cs106l/lectures/WL7_Templates.pdf)
+- [Lambda function](http://web.stanford.edu/class/cs106l/lectures/WL8_Functions.pdf)
+- [Example Lambda function](https://www.geeksforgeeks.org/lambda-expression-in-c/)
