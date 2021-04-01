@@ -31,3 +31,8 @@
 - [Template function](http://web.stanford.edu/class/cs106l/lectures/WL7_Templates.pdf)
 - [Lambda function](http://web.stanford.edu/class/cs106l/lectures/WL8_Functions.pdf)
 - [Example Lambda function](https://www.geeksforgeeks.org/lambda-expression-in-c/)
+
+### Homework 07
+- [More Template from NTU](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp8_Template.html)
+- [Sample code](https://github.com/averyw09521/CS106L-spr20)
+- [Template class code for lecture](https://raw.githubusercontent.com/averyw09521/CS106L-spr20/master/lectures/L10-template-classes)
