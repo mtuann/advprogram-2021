@@ -35,4 +35,4 @@
 ### Homework 07
 - [More Template from NTU](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp8_Template.html)
 - [Sample code](https://github.com/averyw09521/CS106L-spr20)
-- [Template class code for lecture](https://raw.githubusercontent.com/averyw09521/CS106L-spr20/master/lectures/L10-template-classes)
+- [Template class code for lecture](https://github.com/averyw09521/CS106L-spr20/tree/master/lectures/L10-template-classes)
