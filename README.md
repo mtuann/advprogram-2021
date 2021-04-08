@@ -36,3 +36,7 @@
 - [More Template from NTU](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp8_Template.html)
 - [Sample code](https://github.com/averyw09521/CS106L-spr20)
 - [Template class code for lecture](https://github.com/averyw09521/CS106L-spr20/tree/master/lectures/L10-template-classes)
+
+### Homework 08
+- [Single Linked List](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+- [Các bài tập liên quan Single Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/)
